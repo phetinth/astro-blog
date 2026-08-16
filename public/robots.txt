@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /backup/cyctfvm_key.pem
+Disallow: /backup/cyctf-key
